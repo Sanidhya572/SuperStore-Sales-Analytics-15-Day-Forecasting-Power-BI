@@ -172,19 +172,6 @@ Interactive Power BI Dashboard
 
 ---
 
-## 📁 Repository Structure
-
-```
-SuperStore-Sales-Forecasting-Dashboard
-│
-├── README.md
-├── SuperStore_Sales_Dataset.csv
-├── Sales Dashboard.pbix
-└── screenshots/
-```
-
----
-
 ## 🎯 Project Outcome
 
 This project demonstrates:

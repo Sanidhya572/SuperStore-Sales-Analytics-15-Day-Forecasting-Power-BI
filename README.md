@@ -132,15 +132,10 @@ The forecasting model helps estimate short-term revenue performance and supports
 
 ## 📸 Dashboard Preview
 
-_Add exported PNG screenshots in the `screenshots/` folder and link below_
+<img width="699" height="413" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/76dc11f1-a109-4bc9-af8e-bb88b5062b5c" />
 
-```markdown
-![Sales Dashboard](screenshots/sales_dashboard.png)
-![Sales By Region & Segment](screenshots/sales_by_region_segment.png)
-![Sales By Month and Year](screenshots/sales_by_month_year.png)
-![Profit By Month and Year](screenshots/profit_by_month_year.png)
-![Sales Forecasting](screenshots/sales_forecasting.png)
-```
+<img width="700" height="409" alt="Sales Forecasting" src="https://github.com/user-attachments/assets/b10b3c84-2db9-485c-ab75-dbfad550465d" />
+
 
 ---
 
